@@ -27,34 +27,25 @@ Explorar como agentes e integrações entre ferramentas podem tornar a produçã
 
 Em uma das execuções documentadas, o Codex informou a criação de um vídeo vertical **1080 × 1920**, com cerca de **55 segundos**, narração do **ElevenLabs**, gráficos animados e legendas. Essa descrição corresponde ao retorno exibido na captura de tela; a visualização do arquivo final deve ser conferida separadamente.
 
+
 ## Evidências visuais
 
 ### Solicitação e resultado de geração de vídeo
-
-![Comando em linguagem natural e retorno do Codex sobre vídeo com narração](01-comando-e-resultado-video.png)
+![Demonstração no Codex](01-comando-e-resultado-video.png)
 
 ### Outro resultado registrado no Codex
+![Resultado gerado](02-resultado-video-codex.png)
 
-![Prévia de outro vídeo criado no fluxo](02-resultado-video-codex.png)
-
-### Conexão e visualização do Flow Studio
-
-![Codex ao lado do Flow Studio local](03-codex-e-flow-studio.png)
+### Conexão com Flow Studio
+![Codex e Flow Studio](03-codex-e-flow-studio.png)
 
 ### Interface de preparação audiovisual
-
-![Interface do Flow Studio com controles de geração](04-interface-flow-studio.jpg)
-
-> **Nota sobre as evidências:** as capturas do Flow Studio mostram a interface e testes de conexão/preparação, mas não demonstram, por si só, uma nova geração de vídeo naquela sessão. As capturas do Codex mostram retornos de execução e prévias de resultados.
-
-
+![Flow Studio](04-interface-flow-studio.jpg)
 
 ## Vídeos de demonstração
 
-Exemplos de vídeos produzidos nos meus projetos de criação audiovisual com IA:
-
-- [Demonstração 1 — Vídeo](quem-manda-no-brasil-revisado.mp4)
-- [Demonstração 2 — Vídeo](roteiro-4-final.mp4)
+- [Vídeo 1 — Quem manda no Brasil](quem-manda-no-brasil-revisado.mp4)
+- [Vídeo 2 — Roteiro 4](roteiro-4-final.mp4)
 
 
 ## O que aprendi
