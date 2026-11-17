@@ -28,38 +28,34 @@ Explorar como agentes e integrações entre ferramentas podem tornar a produçã
 Em uma das execuções documentadas, o Codex informou a criação de um vídeo vertical **1080 × 1920**, com cerca de **55 segundos**, narração do **ElevenLabs**, gráficos animados e legendas. Essa descrição corresponde ao retorno exibido na captura de tela; a visualização do arquivo final deve ser conferida separadamente.
 
 
+
 ## Evidências visuais
 
-### Solicitação e resultado de geração de vídeo
-![Demonstração no Codex](01-comando-e-resultado-video.png)
+### Solicitação e resultado
+![Resultado no Codex](01-comando-e-resultado-video.png)
 
-### Outro resultado registrado no Codex
-![Resultado gerado](02-resultado-video-codex.png)
+### Outro resultado de geração
+![Prévia do vídeo](02-resultado-video-codex.png)
 
-### Conexão com Flow Studio
-![Codex e Flow Studio](03-codex-e-flow-studio.png)
+### Integração com Flow Studio
+![Codex e Flow](03-codex-e-flow-studio.png)
 
-### Interface de preparação audiovisual
-![Flow Studio](04-interface-flow-studio.jpg)
+### Interface do Flow Studio
+![Interface Flow](04-interface-flow-studio.jpg)
+
+> As imagens apresentam execuções no Codex e testes de integração com o Flow Studio.
 
 ## Vídeos de demonstração
 
 - [Vídeo 1 — Quem manda no Brasil](quem-manda-no-brasil-revisado.mp4)
 - [Vídeo 2 — Roteiro 4](roteiro-4-final.mp4)
 
-
-## O que aprendi
-
-- Transformar pedidos em linguagem natural em tarefas digitais.
-- Conectar ferramentas de IA por interfaces e integrações locais.
-- Validar o resultado de uma execução e documentar evidências.
-- Separar etapas automatizadas de etapas que ainda dependem de revisão humana.
-
 ## Próximos passos
 
-- Publicar um vídeo curto de demonstração, sem dados pessoais ou credenciais.
-- Documentar mais detalhes da arquitetura e do fluxo de execução, quando for possível divulgar essas informações com segurança.
-- Criar métricas reais de tempo ou esforço economizado em testes repetidos.
+- Documentar a arquitetura da automação.
+- Medir o tempo economizado com o processo.
+- Expandir as integrações entre ferramentas de IA.
+
 
 ## Autor
 
